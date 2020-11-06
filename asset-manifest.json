@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vhnghia/thigklan2.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vhnghia/thigklan2.git/static/js/main.70e49b4e.chunk.js",
+    "main.js.map": "/vhnghia/thigklan2.git/static/js/main.70e49b4e.chunk.js.map",
+    "runtime-main.js": "/vhnghia/thigklan2.git/static/js/runtime-main.c4c8d076.js",
+    "runtime-main.js.map": "/vhnghia/thigklan2.git/static/js/runtime-main.c4c8d076.js.map",
+    "static/js/2.bb5ffeae.chunk.js": "/vhnghia/thigklan2.git/static/js/2.bb5ffeae.chunk.js",
+    "static/js/2.bb5ffeae.chunk.js.map": "/vhnghia/thigklan2.git/static/js/2.bb5ffeae.chunk.js.map",
+    "static/js/3.dbcfe20a.chunk.js": "/vhnghia/thigklan2.git/static/js/3.dbcfe20a.chunk.js",
+    "static/js/3.dbcfe20a.chunk.js.map": "/vhnghia/thigklan2.git/static/js/3.dbcfe20a.chunk.js.map",
+    "index.html": "/vhnghia/thigklan2.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vhnghia/thigklan2.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bb5ffeae.chunk.js.LICENSE.txt": "/vhnghia/thigklan2.git/static/js/2.bb5ffeae.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/vhnghia/thigklan2.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c8d076.js",
+    "static/js/2.bb5ffeae.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.70e49b4e.chunk.js"
+  ]
+}
